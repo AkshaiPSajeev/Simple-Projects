@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Adidas Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81WVte5m61L._AC_UL320_.jpg"
+    },
+    {
+        "name":"Nike Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/71-2ml-BEyL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Puma Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81kE41O0jdL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Adidas Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81WVte5m61L._AC_UL320_.jpg"
+    },
+    {
+        "name":"Nike Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/71-2ml-BEyL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Puma Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81kE41O0jdL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Puma Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81kE41O0jdL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Adidas Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81WVte5m61L._AC_UL320_.jpg"
+    },
+    {
+        "name":"Nike Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/71-2ml-BEyL._AC_UL320_.jpg"
+    },
+    {
+        "name":"Puma Running Shoes",
+        "price":3500,
+        "url":"https://m.media-amazon.com/images/I/81kE41O0jdL._AC_UL320_.jpg"
+    }
+]
